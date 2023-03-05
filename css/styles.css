@@ -42,7 +42,7 @@ h6 {
   color: rgb(194, 113, 163);
   border: 5px solid whitesmoke;
   scale: 5;
-  background-image: url("love.jpg");
+  background-image: url("../img/love.jpg");
   background-size: cover;
 }
 
