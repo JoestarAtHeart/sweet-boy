@@ -1,0 +1,52 @@
+body {
+  background-color: aqua;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: purple;
+  font-family: Georgia;
+  text-decoration: underline;
+  text-align: center;
+}
+
+#fuck {
+  background-color: black;
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  height: 100px;
+  font-size: 30px;
+  font-style: italic;
+  color: greenyellow;
+  border-radius: 20px;
+  border: 5px dashed red;
+}
+
+/*#fuck:hover {
+  color: red;
+  background-color: blue;
+  border: 5px dotted red;
+}*/
+
+#fuck a {
+  text-decoration: none;
+  color: greenyellow;
+}
+
+#fuck:hover {
+  color: rgb(194, 113, 163);
+  border: 5px solid whitesmoke;
+  scale: 5;
+  background-image: url("love.jpg");
+  background-size: cover;
+}
+
+#fuck a:hover {
+  text-decoration: none;
+  color: rgb(194, 113, 163);
+}
